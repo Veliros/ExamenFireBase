@@ -1,2 +1,2 @@
 # ExamenFireBase
-AD: Examen de Firebase
+AD: Examen de Firebase, función de añadir favoritos.
